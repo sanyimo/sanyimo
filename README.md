@@ -7,12 +7,18 @@
 **Full Stack Developer** passionate about building scalable and high-performance web applications. I thrive on learning new technologies, solving complex problems, and building solutions that deliver great user experiences. <br>*Always learning, always creating.*
 <br>
 
-🌍 **Languages:** English, Spanish, Catalan, Hungarian, Serbian, etc.  
-📧 **Contact:** [sanyimo@gmail.com](mailto:sanyimo@gmail.com)  
+🌍 **Languages:** English, Spanish, Catalan, Hungarian, Serbian, etc.  <br>
+<br>
+
+📧 **Contact:** 
+<br>
+
+[![Gmail](https://img.shields.io/badge/sanyimo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com)
 
 <br>
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technologies & Skills
+<br>
 
 ![Frontend & Backend Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,sass,tailwind,bootstrap,nodejs,py,php,django,wordpress,rust,mysql,mongodb&perline=8)
 
@@ -28,6 +34,7 @@
    
 <br>
 
+
 ### 💼 Current Focus
 - Exploring **TypeScript** to build even more scalable apps.
 - Diving into **Rust** for performance-driven applications.
@@ -35,19 +42,20 @@
 <br>
 
 ### 🌍 My Projects
-Discover my projects and more about me. <br>🔗 [Portfolio](https://github.com/sanyimo)
+Discover my projects and more about me. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Portfolio](https://github.com/sanyimo)
   
 <br>
 <br>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnMyZGI0NGFwd3d3eWd5aW51OXU2MDVuenZqb2g5MTlqcXNyNWFucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="500px">
+
 <br>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Let's Connect
 
 I'm always open to new opportunities and collaborations. <br> Feel free to reach out via any of the following:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
 
 <br> 
 
@@ -74,6 +82,7 @@ I'm always open to new opportunities and collaborations. <br> Feel free to reach
 
 #### 📱 **Herramientas y otras**:  
 ![](https://skillicons.dev/icons?i=ai,linux,windows,vscode,figma)  
+
 <br>
 
 ### 💼 Enfoque actual:
@@ -81,15 +90,16 @@ I'm always open to new opportunities and collaborations. <br> Feel free to reach
 - Investigando **Rust** para aplicaciones basadas en rendimiento.
 - Mejorando mis habilidades con **Django** para aplicaciones web en Python.
 <br>
+<br>
 
-### 🌍 Mis proyectos:
+### 📁 Mis proyectos:
 Descubre mis proyectos y más sobre mí.  
 🔗 [Portafolio](https://github.com/sanyimo)
 
 <br>
 
 ### Contacto: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
 
 <br>
 
@@ -126,14 +136,14 @@ Descubre mis proyectos y más sobre mí.
 <br> 
 <br>
 
-### 🌍 Els meus projectes:
+### 📁 Els meus projectes:
 Descobreix els meus projectes i més sobre mi.  
 🔗 [Portafoli](https://github.com/sanyimo)
 
 <br>
 
 ### Contacte: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
 
 <br>
 
@@ -156,7 +166,6 @@ Descobreix els meus projectes i més sobre mi.
 - 💻 **Frontend**: HTML, CSS, JavaScript, React, Vue, SASS, Tailwind, Bootstrap  
 - ⚙️ **Backend**: Node.js, Python, PHP, Django, WordPress, Rust  
 - 🛠 **Database**: MySQL, MongoDB  
-
 <br> 
 
 #### 📱 **Strumenti e altro**:  
@@ -169,15 +178,16 @@ Descobreix els meus projectes i més sobre mi.
 - Approfondendo **Rust** per applicazioni ad alte prestazioni.
 - Migliorando le mie competenze con **Django** per applicazioni web in Python.
 <br>
+<br>
 
-### 🌍 I miei progetti:
+### 📁 I miei progetti:
 Scopri i miei progetti e altro su di me.  
 🔗 [Portfolio](https://github.com/sanyimo)
 
 <br>
 
 ### Contatto: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
 
 <br>
 
@@ -213,15 +223,16 @@ Scopri i miei progetti e altro su di me.
 - **Rust** alkalmazások fejlesztése a teljesítményre összpontosítva.
 - **Django** készségek fejlesztése Python webalkalmazásokhoz.
 <br>
+<br>
 
-### 🌍 Projektjeim:
+### 📁 Projektjeim:
 Fedezd fel a projektjeimet és többet rólam.  
 🔗 [Portfólió](https://github.com/sanyimo)
 
 <br>
 
 ### Kapcsolat: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
 
 <br>
 
@@ -257,15 +268,16 @@ Fedezd fel a projektjeimet és többet rólam.
 - Upoznavanje sa **Rust** za aplikacije zasnovane na performansama.
 - Unapređenje mojih veština sa **Django** za Python web aplikacije.
 <br>
+<br>
 
-### 🌍 Moji projekti:
+### 📁 Moji projekti:
 Otkrijte moje projekte i više o meni.  
 🔗 [Portfolio](https://github.com/sanyimo)
 
 <br>
 
 ### Kontakt: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
 
 <br>
 
@@ -301,14 +313,15 @@ Otkrijte moje projekte i više o meni.
 - **Rust** für leistungsorientierte Anwendungen vertiefen.
 - Meine Fähigkeiten mit **Django** für Python-Webanwendungen verbessern.
 <br>
+<br>
 
-### 🌍 Meine Projekte:
+### 📁 Meine Projekte:
 Entdecken Sie meine Projekte und mehr über mich.  
 🔗 [Portfolio](https://github.com/sanyimo)
 <br>
 
 ### Kontakt: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyimo@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1300827475424837685)
 <br>
 
 </details>
@@ -322,5 +335,4 @@ Entdecken Sie meine Projekte und mehr über mich.
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13BEF7&width=435&lines=%F0%9F%9A%80+Thanks+for+visiting+my+profile!++%E2%9C%A8;%F0%9F%9A%80+%C2%A1Gracias+por+tu+visita!+%E2%9C%A8;%F0%9F%9A%80+Gr%C3%A0cies+per+la+teva+visita!+%E2%9C%A8;%F0%9F%9A%80+Grazie+per+la+tua+visita!+%E2%9C%A8;%F0%9F%9A%80+K%C3%B6sz%C3%B6n%C3%B6m%2C+hogy++bekukkantott%C3%A1l!+%E2%9C%A8;%F0%9F%9A%80+Hvala+na+poseti!+%E2%9C%A8;%F0%9F%9A%80+Danke+f%C3%BCr+deinen+Besuch!+%E2%9C%A8)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13BEF7&width=435&lines=%F0%9F%9A%80+Thanks+for+visiting!++%E2%9C%A8;%F0%9F%9A%80+%C2%A1Gracias+por+tu+visita!+%E2%9C%A8;%F0%9F%9A%80+Gr%C3%A0cies+per+la+teva+visita!+%E2%9C%A8;%F0%9F%9A%80+Grazie+per+la+tua+visita!+%E2%9C%A8;%F0%9F%9A%80+K%C3%B6sz%C3%B6n%C3%B6m%2C+hogy++bekukkantott%C3%A1l!+%E2%9C%A8;%F0%9F%9A%80+Hvala+na+poseti!+%E2%9C%A8;%F0%9F%9A%80+Danke+f%C3%BCr+deinen+Besuch!+%E2%9C%A8)](https://git.io/typing-svg)
